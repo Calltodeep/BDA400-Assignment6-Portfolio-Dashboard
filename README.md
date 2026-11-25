@@ -12,7 +12,7 @@
 This interactive R Shiny dashboard fetches historical financial data from Yahoo Finance and FRED with built-in error and missing-data handling. Users can customize date ranges, switch between Daily, Weekly, and Monthly time frames, and visualize prices using Line, Area, or Candlestick charts. The application also lets users dynamically toggle Moving Averages, RSI, and MACD indicator layers on and off while adjusting strategy parameters. Finally, it evaluates Moving Average crossover signals with optional RSI filtering and annotates Buy and Sell points directly on the chart.
 
 ## Repository Link
-* **Public GitHub Repository:** https://github.com/your-username/BDA400-Assignment6-Portfolio-Dashboard
+* **Public GitHub Repository:** https://github.com/Calltodeep/BDA400-Assignment6-Portfolio-Dashboard
 
 ## How to Run the App
 1. Clone or download this repository.
